@@ -7,6 +7,6 @@ RUN go build -o /app
 
 FROM gcr.io/distroless/base
 
-COPY --from=build-env /
+COPY --from=build-env /app /
 
 CMD ["/app", "-c", "/app.conf"]
