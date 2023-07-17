@@ -62,7 +62,7 @@ This app is a helper for [Nixys Support Bot](github.com/nixys/nxs-support-bot). 
 
 ## Feedback
 
-For support and feedbak please contact me:
+For support and feedbaсk please contact me:
 - telegram: [@borisershov](https://t.me/borisershov)
 - e-mail: b.ershov@nixys.ru
 
