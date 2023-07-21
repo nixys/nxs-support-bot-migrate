@@ -1,10 +1,10 @@
-# Nixys Support Bot Migrate
+# nxs-support-bot-migrate
 
-This tool helps you to migrate the DB from latest version of [nxs-chat-srv](https://github.com/nixys/nxs-chat-srv) to [Nixys Support Bot](github.com/nixys/nxs-support-bot) v1.0.0.
+This tool helps you to migrate the DB from latest version of [nxs-chat-srv](https://github.com/nixys/nxs-chat-srv) to [nxs-support-bot](github.com/nixys/nxs-support-bot) v1.0.0.
 
 In text below lets use following conventions:
 - [nxs-chat-srv](https://github.com/nixys/nxs-chat-srv) DB it's an `old` DB
-- [Nixys Support Bot](github.com/nixys/nxs-support-bot) DB it's a `new` DB
+- [nxs-support-bot](github.com/nixys/nxs-support-bot) DB it's a `new` DB
 
 What this tool do:
 - Cleans up a data in `new` DB
@@ -16,7 +16,7 @@ What this tool do:
 
 ### Install
 
-This app is a helper for [Nixys Support Bot](github.com/nixys/nxs-support-bot). Please see Nixys Support Bot readme for installation.
+This app is a helper for [nxs-support-bot](github.com/nixys/nxs-support-bot). Please see nxs-support-bot readme for installation.
 
 ### Settings
 
@@ -62,10 +62,10 @@ This app is a helper for [Nixys Support Bot](github.com/nixys/nxs-support-bot). 
 
 ## Feedback
 
-For support and feedbaсk please contact me:
+For support and feedback please contact me:
 - telegram: [@borisershov](https://t.me/borisershov)
 - e-mail: b.ershov@nixys.ru
 
 ## License
 
-Nixys Support Bot Migrate tool is released under the [GPLv3](LICENSE).
+nxs-support-bot-migrate is released under the [Apache License 2.0](LICENSE).
